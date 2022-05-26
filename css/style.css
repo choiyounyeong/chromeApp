@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+
+.hidden {
+    display: none;
+}
+
+.bgImage {
+    margin: 0 auto;
+    position: absolute;
+    width: 99%;
+    height: 98%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#clock {
+    text-align: center;
+}
+
+#greeting {
+    padding: 70px 0 0 0;
+    text-align: center;
+    color:white;
+}
+
+#login-form {
+    text-align: center;
+}
+
+#todo-form {
+    text-align: center;
+}
+
+#todo-list {
+    text-align: center;
+}
+
+#quote {
+    text-align: center;
+}
+
+#weather {
+    text-align: center;
+}

@@ -1,4 +1,4 @@
-const API_KEY = "3bf7ee219760fc02e1b1182ebbd85795";
+const API_KEY = config.API_KEY;
 
 function getLocationSuccess(position) {
   const lat = position.coords.latitude;
